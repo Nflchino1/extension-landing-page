@@ -1,0 +1,5 @@
+.custom-gradient {
+  background: linear-gradient(to right, #227a5f, #11362d);
+  background-blend-mode: overlay;
+  background-size: cover;
+}
