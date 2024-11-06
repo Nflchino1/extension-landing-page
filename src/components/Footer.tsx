@@ -21,7 +21,7 @@ const Footer = () => {
 <br/>
 <div className=" flex justify-between px-8 text-xs">
 <div>  
-<h3>© 2024 The Valley. All rights reserved.</h3>
+<h3>© 2024 The Valley. All rights reserved. </h3>
 </div>
 <div className="flex justify-center">
 <h3 className="mr-4">Privacy Policy</h3>
